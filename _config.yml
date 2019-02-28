@@ -6,7 +6,7 @@ logo: 'assets/images/logo.svg'
 favicon: 'favicon.ico'
 baseurl: /blog
 google_analytics: 'UA-46264021-3'
-disqus: 'scalar_software'
+disqus: 'scalar-software'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
