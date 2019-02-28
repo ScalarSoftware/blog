@@ -1,0 +1,46 @@
+# Site
+name:
+description:
+meta_description: "Scalar Software Blog"
+logo: 'assets/images/logo.svg'
+favicon: 'favicon.ico'
+baseurl: /blog
+google_analytics: 'UA-46264021-3'
+disqus: 'scalar_software'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+  alex:
+    name: Alex
+    display_name: Alex Podobnik
+    gravatar: f368b473eeef43fb851aa6dd0bd928c1
+    email: alex@scalarsoftware.com
+    web: https://scalarsoftware.com
+    twitter:
+    description:
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
