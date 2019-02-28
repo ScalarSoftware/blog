@@ -78,6 +78,14 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
                 </li>
+
+                {% if page.url == "/contact" %}
+                <li class="nav-item active">
+                {% else %}
+                <li class="nav-item">
+                {% endif %}
+                <a class="nav-link" href="mailto:contact@scalarsoftware.com">Contact</a>
+                </li>
                 
                 <!-- {% if page.url == "/about.html" %}
                 <li class="nav-item active">
