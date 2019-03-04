@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why you should use Vault for Managing Secrets"
+title:  "Why you Should use Vault for Managing Secrets"
 author: alex
 categories: [ Vault, Cloud ]
 image: assets/images/vault.png
