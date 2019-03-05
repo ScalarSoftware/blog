@@ -6,6 +6,7 @@ categories: [ Vault, Cloud ]
 image: assets/images/vault.png
 featured: false
 hidden: false
+date: 2019-03-01 10:49:05 -0500
 ---
 
 Most development teams are struggling or have struggled to manage secrets at scale. There is a lot of overhead when rotating secrets and it’s a manual process that doesn’t get done right away. The solution for managing secrets is to introduce a tool that can store, audit, revoke, and rotate your secrets.

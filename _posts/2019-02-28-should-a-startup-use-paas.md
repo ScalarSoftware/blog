@@ -6,6 +6,7 @@ categories: [ PaaS, Cloud ]
 image: assets/images/paas.jpg
 featured: false
 hidden: false
+date: 2019-02-28 14:11:17 -0500
 ---
 
 Startups want to focus on product development after validating their MVP and acquiring new customers. Startups will initially have small development teams and these teams need to be as productive as possible.

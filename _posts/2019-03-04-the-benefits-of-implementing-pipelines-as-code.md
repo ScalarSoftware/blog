@@ -6,6 +6,7 @@ categories: [ Pipelines, CI, CD ]
 image: assets/images/pipeline.png
 featured: true
 hidden: false
+date: 2019-03-04 11:38:52 -0500
 ---
 
 Development teams that work with Continuous Integration/Delivery (CI/CD) systems are used to the frustration that comes with managing deployment pipelines. Pipelines as code eliminate the management portion because the pipeline definition will be stored in a centralized place where everyone can view and make changes to it in a collaborative way. Manually keeping track of how a deployment pipeline is created is a lot of work and changes can easily be forgotten or lost. There are a variety of tools that allow you to leverage Pipelines as code but we will be focusing on the advantages and disadvantages of this practice.
