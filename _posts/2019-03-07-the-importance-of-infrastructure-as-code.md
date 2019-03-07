@@ -4,7 +4,7 @@ title:  "The Importance of Infrastructure as code"
 author: alex
 categories: [ IaC, DevOps ]
 image: assets/images/iac.png
-featured: true
+featured: false
 hidden: false
 date: 2019-03-07 5:15:00 -0500
 ---
@@ -17,7 +17,7 @@ There are plenty of reasons why IaC is important and beneficial for your team. B
 
 ### Improved Collaboration
 
-IaC will be stored in a centralized version control system where everyone can view and make changes to the configuration. The benefit of this is that you don’t need to worry track how a specific environment was created, it will be stored in the version control system for everyone to see. You can also track who made changes to the environments and why which is something that wasn’t intuitive in the past.
+IaC will be stored in a centralized version control system where everyone can view and make changes to the configuration. The benefit of this is that you don’t need to worry how a specific environment was created, it will be stored in the version control system for everyone to see. You can also track who made changes to the environments and why which is something that wasn’t intuitive in the past.
 
 If a team wants to make a change, they can create a change that can be reviewed by the team. This is important because everyone can be involved in the code review process and it encourages team members to make changes. This also makes sure that more than 1 person on the team is aware of how the environment is configured.
 
