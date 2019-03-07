@@ -11,8 +11,6 @@ date: 2019-03-07 5:15:00 -0500
 
 Infrastructure as Code (IaC) is the management of infrastructure (networks, virtual machines, load balancers, and connection topology) in a descriptive model, using the same versioning as DevOps team uses for source code. Like the principle that the same source code generates the same binary, an IaC model generates the same environment every time it is applied. IaC is a key DevOps practice and is used in conjunction with continuous delivery.[[1]](https://docs.microsoft.com/en-us/azure/devops/learn/what-is-infrastructure-as-code){:target="_blank"}
 
-Infrastructure as code (IaC) is a recent practice that solves inconsistencies between environments. If your application environments aren’t identical, you run into the risk of having production outages. IaC will streamline all of your environment configurations so you don’t have to worry about differences between your production servers. IaC is a deterministic way of creating infrastructure.
-
 ## What are the benefits of IaC?
 
 There are plenty of reasons why IaC is important and beneficial for your team. Below we will outline a few reasons why.
