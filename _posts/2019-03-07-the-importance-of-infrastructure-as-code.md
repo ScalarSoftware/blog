@@ -9,7 +9,7 @@ hidden: false
 date: 2019-03-07 1:54:00 -0500
 ---
 
-Infrastructure as code (IaC) is a recent practice that solves inconsistencies between environments. If your application environments aren’t identical, you run into the risk of having production outages. IaC will streamline all of your environment configuration so you don’t have to worry about differences in configuration between your production environments. IaC is a deterministic way of creating infrastructure.
+Infrastructure as code (IaC) is a recent practice that solves inconsistencies between environments. If your application environments aren’t identical, you run into the risk of having production outages. IaC will streamline all of your environment configurations so you don’t have to worry about differences between your production environments. IaC is a deterministic way of creating infrastructure.
 
 ## What is Infrastructure as code 
 
@@ -39,7 +39,7 @@ If someone makes a rogue change to the environment that isn’t tracked in the I
 
 ### Decreased Cost
 
-Since IaC will make your team more productive, they can spend more time working on high-value tasks due to the productivity increase that IaC introduced. You will also be able to track all of the infrastructures that exists in your environment making it easier to audit and delete resources that don’t need to be used. 
+Since IaC will make your team more productive, they can spend more time working on high-value tasks due to the productivity increase that IaC introduced. You will also be able to track all of the infrastructures that exist in your environment making it easier to audit and delete resources that don’t need to be used.
 
 ## How to get Started
 
