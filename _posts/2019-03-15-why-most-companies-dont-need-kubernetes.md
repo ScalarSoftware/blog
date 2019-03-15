@@ -43,7 +43,7 @@ For companies that have simple applications, I suggest using a [Platform as a se
 
 ## What if I need Kubernetes?
 
-If you found a use-case where you need to use Kubernetes, I would suggest that you look at the managed Kubernetes services that exist. Google Cloud offers GKE, Amazon offers EKS, and Azure offers AKS. Rancher offers RKS which makes it easier to create clusters. These tools will make your Kubernetes experience smoother.
+If you found a use-case where you need to use Kubernetes, I would suggest that you look at the managed Kubernetes services that exist. Google Cloud offers GKE, Amazon offers EKS, and Azure offers AKS. Rancher recently released RKS which makes it easier to create clusters. These tools will make your Kubernetes experience smoother.
 
 ## What about self-healing features?
 
@@ -51,7 +51,7 @@ While the auto-scaling and auto-healing features of Kubernetes are great, you do
 
 ## The future of Kubernetes
 
-I believe that Kubernetes will become easier to work within the future. The managed Kubernetes services being offered by cloud providers have already made a big impact on the developer community. With tools like Knative, I could see cloud providers move to a more serverless approach with Kubernetes. There are plenty of tools in the ecosystem that is trying to simplify the Kubernetes user-experience to make it accessible to everyone.
+I believe that Kubernetes will become simpler in the future. The managed Kubernetes services being offered by cloud providers have already made a big impact on the developer community. With tools like Knative, I could see cloud providers move to a more serverless approach with Kubernetes. There are plenty of tools in the ecosystem that is trying to simplify the Kubernetes user-experience to make it accessible to everyone.
 
 ## Conclusion
 
