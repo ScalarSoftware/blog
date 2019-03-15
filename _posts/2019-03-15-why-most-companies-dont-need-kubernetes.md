@@ -2,7 +2,7 @@
 layout: post
 title:  "Why most companies don't need Kubernetes"
 author: alex
-categories: [ Kubernetes ]
+categories: [ Kubernetes, DevOps ]
 image: assets/images/kubernetes.png
 featured: true
 hidden: false
@@ -11,21 +11,21 @@ date: 2019-03-15 11:25:00 -0500
 
 Kubernetes has gained a lot of popularity recently in the industry and a lot of people are considering using it in production. Before you consider using Kubernetes, you need to understand what your use-case is so you can determine if Kubernetes is a good fit for your organization.
 
-I’m a fan of Kubernetes and the problems it solves but I don’t think most companies have a proper use-case for using it. If you’re able to keep things as simple as possible, I would recommend doing that instead of introducing a complex system.
+While I am a fan of Kubernetes and the problems it solves but I don’t think most companies have a proper use-case for using it. If you’re able to keep things as simple as possible, I would recommend doing that instead of introducing a complex system.
 
 ## Why should you avoid Kubernetes?
 
-Below we will outline a few reasons why your company should avoid using Kubernetes.
+Below I will outline a few reasons why your company should avoid using Kubernetes.
 
 ### Kubernetes is complex
 
-Kubernetes introduces a lot of complexity for development teams. The reason why this is a problem is that your development team has to spend the time to learn another tool. Creating and operating a cluster is complex and isn’t something that most people know how to do. Kubernetes also has a lot of moving pieces and isn’t something you can learn overnight. Becoming an expert in Kubernetes takes a long time.
+Kubernetes introduces a lot of complexity for development teams. The reason why this is a problem is that your development team has to spend the time to learn another tool. Creating and operating a cluster is complex and isn’t something that most people know how to do. Kubernetes also has a lot of moving pieces which is why it isn’t something you can learn overnight.
 
 ### Your applications are simple
 
-If you have a small number of applications that don’t receive a lot of traffic, then you should look at alternatives. Kubernetes becomes useful when you are following a microservices pattern and have many different services with similar configurations.
+If you have a small number of applications that don’t receive a lot of traffic, then you should look at alternatives. Kubernetes becomes useful when you're following a microservices pattern and have many different services with similar configurations.
 
-### You run everything in the Cloud
+### You run everything in the cloud
 
 If you already run everything in the cloud, I don’t see the advantage of using Kubernetes. Kubernetes is great for companies that are looking to use their on-prem infrastructure as well as cloud infrastructure to create a hybrid cloud. This is typically done by companies that need to maintain a high level of availability for their applications. Unless you’re running a highly critical application that needs to provide a high uptime for users, it doesn’t make sense.
 
@@ -39,7 +39,7 @@ Although Kubernetes can save your company money and make your development team m
 
 ## What are the alternatives?
 
-For companies that have simple applications, I suggest using a [Platform as a service](https://scalarsoftware.com/blog/should-a-startup-use-paas/){:target="_blank"} (PaaS). There are plenty of container-based PaaS tools that all of the cloud providers offer. If you decide that you don’t want to use containers, there are still plenty of options to choose from. Each cloud provider will have some sort of PaaS offering so you will need to do research to see which one is the best fit for your team and application.
+For companies that have simple applications, I suggest using a [Platform as a service (PaaS)](https://scalarsoftware.com/blog/should-a-startup-use-paas/){:target="_blank"}. There are plenty of container-based PaaS tools that all of the cloud providers offer. If you decide that you don’t want to use containers, there are still plenty of options to choose from. Each cloud provider will have some sort of PaaS offering so you will need to do research to see which one is the best fit for your team and application.
 
 ## What if I need Kubernetes?
 
