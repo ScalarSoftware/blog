@@ -6,12 +6,12 @@ categories: [ Kubernetes, DevOps ]
 image: assets/images/kubernetes.png
 featured: true
 hidden: false
-date: 2019-03-15 11:25:00 -0500
+date: 2019-03-15 12:30:00 -0500
 ---
 
-Kubernetes has gained a lot of popularity recently in the industry and a lot of people are considering using it in production. Before you consider using Kubernetes, you need to understand what your use-case is so you can determine if Kubernetes is a good fit for your organization.
+Kubernetes has gained a lot of popularity in the industry recently and a lot of people are considering using it in production. Before you consider using Kubernetes, you need to understand what your use case is so you can determine if Kubernetes is a good fit for your organization.
 
-While I am a fan of Kubernetes and the problems it solves but I don’t think most companies have a proper use-case for using it. If you’re able to keep things as simple as possible, I would recommend doing that instead of introducing a complex system.
+While I am a fan of Kubernetes and the problems it solves but I don’t think most companies have a proper use case for using it. If you’re able to keep things as simple as possible, I would recommend doing that instead of introducing a complex system.
 
 ## Why should you avoid Kubernetes?
 
@@ -35,7 +35,7 @@ Securing a cluster is a complex task that requires a special set of expertise. K
 
 ### Kubernetes introduces overhead
 
-Although Kubernetes can save your company money and make your development team more productive in the long-run, you need to make a large upfront investment when starting out. You will need to teach your teams how to use Kubernetes and you will need to build a dedicated team of experts to maintain and operate your Kubernetes cluster. Kubernetes itself doesn’t provide the best developer experience which is why there are plenty of tools that have been created to help turn Kubernetes into a platform. Turning Kubernetes into a platform also introduces a lot of overhead.
+Although Kubernetes can save your company money and make your development team more productive in the long run, you need to make a large upfront investment when starting out. You will need to teach your teams how to use Kubernetes and you will need to build a dedicated team of experts to maintain and operate your Kubernetes cluster. Kubernetes itself doesn’t provide the best developer experience which is why there are plenty of tools that have been created to help turn Kubernetes into a platform. Turning Kubernetes into a platform also introduces a lot of overhead.
 
 ## What are the alternatives?
 
@@ -51,11 +51,11 @@ While the auto-scaling and auto-healing features of Kubernetes are great, you do
 
 ## The future of Kubernetes
 
-I believe that Kubernetes will become simpler in the future. The managed Kubernetes services being offered by cloud providers have already made a big impact on the developer community. With tools like Knative, I could see cloud providers move to a more serverless approach with Kubernetes. There are plenty of tools in the ecosystem that is trying to simplify the Kubernetes user-experience to make it accessible to everyone.
+I believe that Kubernetes will become simpler in the future. The managed Kubernetes services being offered by cloud providers have already made a big impact on the developer community. With tools like Knative, I could see cloud providers move to a more serverless approach with Kubernetes. There are plenty of tools in the ecosystem that is trying to simplify the Kubernetes user experience to make it accessible to everyone.
 
 ## Conclusion
 
-Unless you have a compelling use-case on why Kubernetes will provide a better user experience for your customers, you shouldn’t introduce it. The complexity and overhead don’t make sense for most companies. There are plenty of great platforms that can solve your business problem without introducing a lot of complexity for your development teams.
+Unless you have a compelling use case on why Kubernetes will provide a better user experience for your customers, you shouldn’t introduce it. The complexity and overhead don’t make sense for most companies. There are plenty of great platforms that can solve your business problem without introducing a lot of complexity for your development teams.
 
 ## Links
 
