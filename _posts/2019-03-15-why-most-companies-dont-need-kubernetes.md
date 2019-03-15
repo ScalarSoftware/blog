@@ -6,7 +6,7 @@ categories: [ Kubernetes, DevOps ]
 image: assets/images/kubernetes.png
 featured: true
 hidden: false
-date: 2019-03-15 12:30:00 -0500
+date: 2019-03-15 12:45:00 -0500
 ---
 
 Kubernetes has gained a lot of popularity in the industry recently and a lot of people are considering using it in production. Before you consider using Kubernetes, you need to understand what your use case is so you can determine if Kubernetes is a good fit for your organization.
@@ -31,7 +31,7 @@ If you already run everything in the cloud, I don’t see the advantage of using
 
 ### Kubernetes is hard to secure
 
-Securing a cluster is a complex task that requires a special set of expertise. Kubernetes has a lot of gotchas when it comes to security so I would suggest using something that’s simpler to secure.
+Securing a cluster is a complex task that requires a special set of expertise. Kubernetes has a lot of gotchas when it comes to security so I would suggest using something that’s easier to secure.
 
 ### Kubernetes introduces overhead
 
@@ -39,15 +39,15 @@ Although Kubernetes can save your company money and make your development team m
 
 ## What are the alternatives?
 
-For companies that have simple applications, I suggest using a [Platform as a service (PaaS)](https://scalarsoftware.com/blog/should-a-startup-use-paas/){:target="_blank"}. There are plenty of container-based PaaS tools that all of the cloud providers offer. If you decide that you don’t want to use containers, there are still plenty of options to choose from. Each cloud provider will have some sort of PaaS offering so you will need to do research to see which one is the best fit for your team and application.
+For companies that have simple applications, I suggest using a [Platform as a service (PaaS)](https://scalarsoftware.com/blog/should-a-startup-use-paas/){:target="_blank"}. There are plenty of container based PaaS tools that all of the cloud providers offer. If you decide that you don’t want to use containers, there are still plenty of options to choose from. Each cloud provider will have some sort of PaaS offering so you will need to do research to see which one is the best fit for your team and application.
 
 ## What if I need Kubernetes?
 
-If you found a use-case where you need to use Kubernetes, I would suggest that you look at the managed Kubernetes services that exist. Google Cloud offers GKE, Amazon offers EKS, and Azure offers AKS. Rancher recently released RKS which makes it easier to create clusters. These tools will make your Kubernetes experience smoother.
+If you found a use case where you need to use Kubernetes, I would suggest that you look at the managed Kubernetes services that exist. Google Cloud offers GKE, Amazon offers EKS, and Azure offers AKS. Rancher recently released RKS which makes it easier to create clusters. These tools will make your Kubernetes experience smoother.
 
 ## What about self-healing features?
 
-While the auto-scaling and auto-healing features of Kubernetes are great, you don’t need to use it to get this functionality. There are plenty of different tools out there that also come with these capabilities that are simpler to use than Kubernetes.
+While the auto-scaling and self-healing features of Kubernetes are great, you don’t need to use it to get this functionality. There are plenty of different tools out there that also come with these capabilities that are simpler to use than Kubernetes.
 
 ## The future of Kubernetes
 
