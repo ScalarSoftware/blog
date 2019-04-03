@@ -6,7 +6,7 @@ categories: [ IaC, AWS, GCP, Terraform ]
 image: assets/images/terraform.png
 featured: true
 hidden: false
-date: 2019-04-02 12:30:00 -0500
+date: 2019-04-03 12:30:00 -0500
 ---
 
 I recently spoke at the [Waterloo Technology Chautauqua](https://www.meetup.com/Waterloo-Technology-Chautauqua/){:target="_blank"} Meetup to give an introduction on why infrastructure as code is important and the use-cases for implementing it. I also spoke about my experiences with Infrastructure as code and Terraform at scale.
