@@ -4,7 +4,7 @@ title:  "Why most companies don't need Kubernetes"
 author: alex
 categories: [ Kubernetes, DevOps ]
 image: assets/images/kubernetes.png
-featured: true
+featured: false
 hidden: false
 date: 2019-03-15 12:45:00 -0500
 ---
