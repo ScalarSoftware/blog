@@ -4,7 +4,7 @@ title:  "The Benefits of Implementing Pipelines as code"
 author: alex
 categories: [ Pipelines, CI, CD ]
 image: assets/images/pipeline.png
-featured: true
+featured: false
 hidden: false
 date: 2019-03-04 11:38:52 -0500
 ---
