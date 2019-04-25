@@ -4,7 +4,7 @@ title:  "Introduction to Infrastructure as code with Terraform"
 author: alex
 categories: [ IaC, AWS, GCP, Terraform ]
 image: assets/images/terraform.png
-featured: true
+featured: false
 hidden: false
 date: 2019-04-03 12:30:00 -0500
 ---
