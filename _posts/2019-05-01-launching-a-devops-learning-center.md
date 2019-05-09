@@ -6,7 +6,7 @@ categories: [ DevOps, Company Updates ]
 image: assets/images/youtube.png
 featured: false
 hidden: false
-date: 2019-5-01 11:00:00 -0500
+date: 2019-05-01 11:00:00 -0500
 ---
 
 Recently, we started a YouTube channel. The goal of the channel is to release technical content that teaches developers how to be more productive. We plan to release weekly content.
