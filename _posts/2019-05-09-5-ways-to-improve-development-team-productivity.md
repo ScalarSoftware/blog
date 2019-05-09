@@ -6,7 +6,7 @@ categories: [ DevOps, automation, productivity ]
 image: assets/images/devops.png
 featured: false
 hidden: false
-date: 2019-05-09 10:00:00 -0500
+date: 2019-05-09 09:30:00 -0500
 ---
 
 Today, I am going to share 5 different ways you can improve development team productivity. The goal of this post is to give you ideas that you can use at your company.
