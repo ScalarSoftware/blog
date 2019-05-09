@@ -17,7 +17,7 @@ Let’s get started.
 
 When a new developer joins your team, they should be able to onboard themselves. The longer it takes to onboard developers, the less productive your team will be in the future. 
 
-If you automate on-boarding, your new developers will hit the ground running. If it takes more than a day for developers to complete this process, then you should be addressing this bottleneck. Automating this process is an easy way to improve the productivity of new hires.
+If you automate onboarding, your new developers will hit the ground running. If it takes more than a day for developers to complete this process, then you should be addressing this bottleneck. Automating this process is an easy way to improve the productivity of new hires.
 
 ## 2. Automated Testing
 
