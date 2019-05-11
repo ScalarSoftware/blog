@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Launching a DevOps Learning Center"
+title:  "Launching a Developer Productivity Learning Center"
 author: alex
-categories: [ DevOps, Company Updates ]
+categories: [ Developer Productivity, Company Updates ]
 image: assets/images/youtube.png
 featured: false
 hidden: false
