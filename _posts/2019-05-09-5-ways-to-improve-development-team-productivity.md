@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Ways to Improve Development Team Productivity"
 author: alex
-categories: [ DevOps, automation, productivity ]
+categories: [ Developer Productivity, Automation ]
 image: assets/images/devops.png
 featured: false
 hidden: false
