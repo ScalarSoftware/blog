@@ -3,10 +3,10 @@ layout: post
 title:  "4 Ways the Cloud Improves Productivity"
 author: alex
 categories: [ Developer Productivity, Cloud ]
-image: assets/images/
+image: assets/images/cloud.jpg
 featured: false
 hidden: false
-date: 2019-05-13 09:00:00 -0500
+date: 2019-05-13 11:00:00 -0500
 ---
 
 One of my favorite aspects of the cloud is leveraging it to improve your team’s productivity. This blog post won’t mention specific cloud providers because they all provide similar benefits.
@@ -57,4 +57,6 @@ If you aren’t using the cloud today, I would suggest trying to start migrating
 
 Migrating to the cloud and leveraging the services the provider offers will improve developer productivity and will allow you to deliver value to customers faster.
 
-If you would like to learn more about how the cloud improves productivity, you can email us at contact@scalarsoftware.com.
+If you would like to learn more about how the cloud improves productivity, you can email us at [contact@scalarsoftware.com](mailto:contact@scalarsoftware.com).
+
+[0] [https://www.netsolutions.com/insights/wp-content/uploads/2011/06/What-is-Cloud-computing_f.jpg](https://www.netsolutions.com/insights/wp-content/uploads/2011/06/What-is-Cloud-computing_f.jpg){:target="_blank"}
