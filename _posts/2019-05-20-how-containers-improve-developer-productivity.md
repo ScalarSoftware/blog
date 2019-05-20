@@ -61,6 +61,6 @@ Since containers solve a lot of problems, they allow developers to focus more on
 
 Containers are an easy and simple way to run your application. Your team should consider using them to see if they’re a good fit in your organization.
 
-If you would like to learn more about how the containers improve developer productivity, you can email us at contact@scalarsoftware.com.
+If you would like to learn more about how the containers improve developer productivity, you can email us at [contact@scalarsoftware.com](mailto:contact@scalarsoftware.com).
 
 [0] [http://www.storstac.com/development/wordpress/wp-content/uploads/2014/12/Military-20-DD-Storstac-1-800x321.jpg](http://www.storstac.com/development/wordpress/wp-content/uploads/2014/12/Military-20-DD-Storstac-1-800x321.jpg){:target="_blank"}
