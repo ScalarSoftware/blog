@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to Infrastructure as code with Terraform"
 author: alex
-categories: [ IaC, AWS, GCP, Terraform ]
+categories: [ IaC, AWS, GCP, Terraform, Talk ]
 image: assets/images/terraform.png
 featured: false
 hidden: false

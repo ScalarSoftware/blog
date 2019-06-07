@@ -2,7 +2,7 @@
 layout: post
 title:  "Secrets Management with HashiCorp Vault"
 author: alex
-categories: [ Vault ]
+categories: [ Vault, Talk ]
 image: assets/images/secrets.jpg
 featured: false
 hidden: false
